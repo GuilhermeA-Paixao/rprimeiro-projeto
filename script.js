@@ -11,6 +11,6 @@ function toggleMode() {
     img.setAttribute("src", "assets/perfiPonerlight.png")
   } else {
     // set tiver sem light mode, manter a imagem normal
-    img.setAttribute("src", "perfilponer1.png")
+    img.setAttribute("src", "devlinks-main/assets/perfiPoner 1.jpg")
   }
 }
